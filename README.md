@@ -1,1 +1,1 @@
-# happy_b_telegram_bot
+This a happy_b_telegram_bot that contains videos(stored locally in /videos). Video is sent to user when corresponding option is chosen in a list. Back << button, restart /r are useful features for the user.
