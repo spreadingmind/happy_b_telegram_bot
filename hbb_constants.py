@@ -1,6 +1,6 @@
 from emoji import emojize
 
-API_key = '363975903:AAHRXIs9bwupaFJIiHUROQN15a9xI-NJd68'
+API_key = 'XXX'
 
 start_text = emojize("  :sunny:   :sunny:   :sunny:   :sunny:   :sunny:   :sunny:   :sunny:   :sunny:    \n\
 Это бот, в котором собраны виртуальные подарки от людей, неравнодушных к тебе, \
